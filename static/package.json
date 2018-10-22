@@ -1,0 +1,32 @@
+{
+  "name": "smarthome_dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack -p --progress --config webpack.config.js",
+    "dev-build": "webpack --progress -d --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --progress -d --config webpack.config.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tgarv/smarthome_dashboard.git"
+  },
+  "author": "Thomas Garverman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tgarv/smarthome_dashboard/issues"
+  },
+  "homepage": "https://github.com/tgarv/smarthome_dashboard#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "webpack": "^4.22.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
