@@ -1,0 +1,2 @@
+Set up webpack and babel: https://www.valentinog.com/blog/react-webpack-babel/
+Install react-bootstrap and bootstrap: https://react-bootstrap.github.io/getting-started/introduction
