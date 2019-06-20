@@ -24,6 +24,8 @@
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.4",
+    "css-loader": "^3.0.0",
+    "json-loader": "^0.5.7",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "webpack": "^4.22.0",
@@ -31,6 +33,10 @@
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "react-bootstrap": "^1.0.0-beta.5"
+    "jquery": "^3.4.1",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-bootstrap-slider": "^2.2.2",
+    "react-bootstrap-switch": "^15.5.3",
+    "style-loader": "^0.23.1"
   }
 }

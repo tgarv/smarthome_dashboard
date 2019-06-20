@@ -1,2 +1,2 @@
-Set up webpack and babel: https://www.valentinog.com/blog/react-webpack-babel/
+Set up webpack and babel: https://codeburst.io/creating-a-full-stack-web-application-with-python-npm-webpack-and-react-8925800503d9
 Install react-bootstrap and bootstrap: https://react-bootstrap.github.io/getting-started/introduction
