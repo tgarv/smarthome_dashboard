@@ -1,3 +1,6 @@
 /server/venv/
 /static/node_modules/
 .idea/*
+node_modules/*
+package-lock.json
+static/dist/bundle.js
